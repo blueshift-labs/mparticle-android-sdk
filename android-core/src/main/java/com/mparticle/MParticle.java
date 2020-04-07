@@ -1525,7 +1525,7 @@ public class MParticle {
      * @see #getSurveyUrl(int)
      */
     public interface ServiceProviders {
-        int BLUESHIFT = -1; // TODO: 2020-03-20 change this when u have actual value
+        int BLUESHIFT = 1144;
         int URBAN_AIRSHIP = 25;
         int APPBOY = 28;
         int TUNE = 32;
